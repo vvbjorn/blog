@@ -1,6 +1,6 @@
 +++
-title = 'CTF writeups by @vvbjorn'
-readingtime = 'False'
+title = "CTF writeups by @vvbjorn"
+readingtime = "False"
 +++
 
 - 2025/09/27 **[SunshineCTF 2025](./sunshinectf-2025/)**

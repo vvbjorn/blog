@@ -1,8 +1,8 @@
 +++
-title = 'CrewCTF 2025'
-date = '2025-10-05T13:15:18+02:00'
-author = 'vvbjorn'
-tags = ['ctf']
+title = "CrewCTF 2025"
+date = "2025-10-05T13:15:18+02:00"
+author = "vvbjorn"
+tags = ["ctf"]
 readingTime = false
 +++
 

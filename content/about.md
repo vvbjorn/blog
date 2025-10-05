@@ -1,6 +1,6 @@
 +++
-title = 'About'
-readingtime = 'False'
+title = "About"
+readingtime = "False"
 +++
 
 Really lazy programmer and cybersecurity enthusiast working on a project for 10 mins then moving on to the next :p

@@ -1,10 +1,9 @@
 +++
-title = '{{ replace (path.Base (path.Dir .File.Path)) "-" " " | title }}'
-date = '{{ .Date }}'
-author = 'vvbjorn'
-tags = ['ctf']
+title = "{{ replace (path.Base (path.Dir .File.Path)) "-" " " | title }}"
+date = "{{ .Date }}"
+author = "vvbjorn"
+tags = ["ctf"]
 readingTime = false
-draft = true
 +++
 
 **CTFtime**: https://ctftime.org/event/
@@ -19,3 +18,4 @@ Description
 
 # Writeups
 
+Body

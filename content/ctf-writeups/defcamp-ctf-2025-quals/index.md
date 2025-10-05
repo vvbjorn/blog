@@ -1,8 +1,8 @@
 +++
-title = 'Defcamp Ctf 2025 Quals'
-date = '2025-10-05T13:18:50+02:00'
-author = 'vvbjorn'
-tags = ['ctf']
+title = "Defcamp Ctf 2025 Quals"
+date = "2025-10-05T13:18:50+02:00"
+author = "vvbjorn"
+tags = ["ctf"]
 readingTime = false
 +++
 
@@ -38,7 +38,7 @@ Each challenge holds a unique flag in the format CTF{sha256 random message}. Cap
 CTF competitions are a thrilling mix of puzzles and challenges, including reverse-engineering, memory corruption, cryptography, web tech, and more. Solve them, capture the flag, and climb the leaderboard to victory!
 
 Organizers & Partners
-This epic event is brought to you by the Cyber Security Research Center from Romania (Asociatia Centrul de Cercetare in Securitate Informatica din Romania) under the banner of DefCamp, Romania's largest and most vibrant INFOSEC community.
+This epic event is brought to you by the Cyber Security Research Center from Romania (Asociatia Centrul de Cercetare in Securitate Informatica din Romania) under the banner of DefCamp, Romania"s largest and most vibrant INFOSEC community.
 
 ---
 
