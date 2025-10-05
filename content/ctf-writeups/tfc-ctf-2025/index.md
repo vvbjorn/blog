@@ -1,6 +1,6 @@
 +++
-title = "Tfc Ctf 2025"
-date = "2025-10-05T13:27:00+02:00"
+title = "TFC CTF 2025"
+date = "2025-08-29"
 author = "vvbjorn"
 tags = ["ctf"]
 readingTime = false

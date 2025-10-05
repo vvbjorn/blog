@@ -1,6 +1,6 @@
 +++
 title = "CrewCTF 2025"
-date = "2025-10-05T13:15:18+02:00"
+date = "2025-09-19"
 author = "vvbjorn"
 tags = ["ctf"]
 readingTime = false

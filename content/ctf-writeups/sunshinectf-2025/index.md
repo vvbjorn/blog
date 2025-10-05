@@ -1,6 +1,6 @@
 +++
 title = "SunshineCTF 2025"
-date = "2025-10-05T01:01:58+02:00"
+date = "2025-09-27"
 author = "vvbjorn"
 tags = ["ctf"]
 readingTime = false

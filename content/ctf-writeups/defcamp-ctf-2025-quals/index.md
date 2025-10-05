@@ -1,6 +1,6 @@
 +++
-title = "Defcamp Ctf 2025 Quals"
-date = "2025-10-05T13:18:50+02:00"
+title = "DefCamp CTF 2025 Quals"
+date = "2025-09-12"
 author = "vvbjorn"
 tags = ["ctf"]
 readingTime = false
