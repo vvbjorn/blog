@@ -1,5 +1,5 @@
 +++
-title = 'SunshineCTF 2025'
+title = 'CrewCTF 2025'
 date = '2025-10-05T01:01:58+02:00'
 author = 'vvbjorn'
 tags = ['ctf']
